@@ -1,4 +1,4 @@
-- hosts: ios
+- hosts: poc_group
   gather_facts: no
 
   tasks:
