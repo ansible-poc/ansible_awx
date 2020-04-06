@@ -7,7 +7,7 @@
         commands:
           - show version
           - terminal shell
-          - show log | tail 10
+          - show clock
       register: result
 
     - name: debug output
