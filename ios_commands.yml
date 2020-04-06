@@ -11,4 +11,4 @@
 
     - name: debug output
       debug:
-        msg: "{{ result.stdout_lines[0] }}"
+        msg: "{{ result.stdout_lines }}"
